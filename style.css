@@ -10,13 +10,9 @@ body{
     display: flex;
 }
 
-.yo_direita-{
-    padding-right: 240px;
-    margin: 20;
-    background-color: rgb(23, 78, 228);
+.lado{
+    padding-right: 190;
 }
-.yo_baixo{
-    padding-bottom: 240;
-    margin: 20;
-    background-color: rgb(23, 78, 228);
+.baixo{
+    padding-bottom: 190;
 }
