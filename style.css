@@ -1,11 +1,22 @@
-#body_1{
-    background-color: rgb(129, 129, 255);
+body{
+    background-color: rgba(235, 139, 13, 0.884);
 }
 .yo{
     padding: 50px;
     margin: 20px;
-    background-color: rgb(255, 255, 119);
+    background-color: rgb(23, 78, 228);
 }
 .flex{
     display: flex;
+}
+
+.yo_direita-{
+    padding-right: 240px;
+    margin: 20;
+    background-color: rgb(23, 78, 228);
+}
+.yo_baixo{
+    padding-bottom: 240;
+    margin: 20;
+    background-color: rgb(23, 78, 228);
 }
