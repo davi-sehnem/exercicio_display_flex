@@ -1,24 +1,26 @@
 body{
-    background-color: rgba(235, 139, 13, 0.884);
+    background-color: rgb(235, 139, 13);
 }
 .yo{
     padding: 50px;
-    margin: 20px;
+    margin: 25px;
     background-color: rgb(23, 78, 228);
+    border-radius: 10;
 }
 .flex{
     display: flex;
+    
 }
 
 .lado{
     padding-right: 190;
 }
 .baixo{
-    padding-bottom: 190;
+    height: 190;
 }
 .cima{
     padding-top: 190;
 }
 .inverso{
-    background-color: rgba(235, 139, 13, 0.884);
+    background-color: rgb(235, 139, 13);
 }
