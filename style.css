@@ -16,3 +16,9 @@ body{
 .baixo{
     padding-bottom: 190;
 }
+.cima{
+    padding-top: 190;
+}
+.inverso{
+    background-color: rgba(235, 139, 13, 0.884);
+}
