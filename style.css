@@ -5,11 +5,10 @@ body{
     padding: 50px;
     margin: 25px;
     background-color: rgb(23, 78, 228);
-    border-radius: 10;
 }
 .flex{
     display: flex;
-    
+    justify-content: center;
 }
 
 .lado{
